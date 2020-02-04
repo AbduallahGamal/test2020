@@ -14,10 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         //for any knowledge
-       // var x
-        //var y
-        //var z
-       // z = x + y
+       
     }
 
 
